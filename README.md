@@ -10,6 +10,7 @@ The dataset consists of 4771 images spanning 8 classes. The images are 64 * 64. 
 |   Madhubani   |           616         |
 |   Mural       |           669         |
 |   Pattachitra |           630         |
+|   Phad        |           504         |
 |   Tanjore     |           554         |
 |   Warli       |           534         |
 |   Total       |          4771         |
