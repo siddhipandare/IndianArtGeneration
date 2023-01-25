@@ -15,8 +15,11 @@ The dataset consists of 4771 images spanning 8 classes. The images are 64 * 64. 
 |   Warli       |           534         |
 |   Total       |          4771         |
 
+The final report of the project is also available above.
 
 ECE 6254 - Statistical Machine Learning Final Project by Nimisha Pabbichetty, Ashwin Kulkarni, Siddhi Pandare and Aakash Venkataraman.
 Georgia Institute of Technology
+
+
 
 
